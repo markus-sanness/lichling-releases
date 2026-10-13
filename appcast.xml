@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Lichling for Mac</title>
+    <item>
+      <title>Lichling 0.4.0</title>
+      <pubDate>Tue, 13 Oct 2026 11:10:52 GMT</pubDate>
+      <sparkle:version>0.4.0</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description>First Mac version: he lives on your Dock.</description>
+      <enclosure url="https://github.com/markus-sanness/lichling-releases/releases/download/mac-v0.4.0/Lichling-mac.dmg" type="application/octet-stream" sparkle:edSignature="zg1owbfgPYhQeJ/RjgEuSq6A/Hzlz6sWGfCGLvDOhZl4fhOUWJKUQT2WJwkWBUNjBr/JTbRTvA54cyJf2dnmCg==" length="4846688"/>
+    </item>
+  </channel>
+</rss>
